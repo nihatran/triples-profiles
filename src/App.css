@@ -1,7 +1,7 @@
 
 body {
     font-family: roboto;
-    height: 100vh;
+    height: 90vh;
 }
   
 .header {
@@ -11,16 +11,11 @@ body {
 }
 
 .cardsContainer {
-    
-}
-
-
-.row {
     display: flex;
     justify-content: center;
     gap: 40px;
     flex: none;
     flex-wrap: wrap;
-    margin-bottom: 40px;
-
 }
+
+
