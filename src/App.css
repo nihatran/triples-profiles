@@ -1,0 +1,26 @@
+
+body {
+    font-family: roboto;
+    height: 100vh;
+}
+  
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.cardsContainer {
+    
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex: none;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+
+}

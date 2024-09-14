@@ -10,7 +10,7 @@ export function Card() {
 
   return (
     <>
-      <div class="container">
+      <div className="container">
         <div
           className={`card ${isFlipped ? "isFlipped" : null}`}
           onClick={handleClick}
