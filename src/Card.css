@@ -1,7 +1,7 @@
 .container {
     position: relative;
-    width: 260px;
-    height: 340px;
+    width: 330px;
+    height: 460px;
     flex: none;
 }
 
@@ -11,9 +11,6 @@
     height: 100%;
     transform-style: preserve-3d;
     transition: all 0.5s ease;
-    border-radius: 10px;
-
-    border: 2px solid black;
 }
 
 .card.isFlipped {
@@ -27,16 +24,37 @@
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-    color: black;
+  
 }
 
 .cardBack {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    gap: 3px;
     position: absolute;
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
     transform: rotateY(180deg);
+
+    color: white;
+    background-color: rgb(41, 41, 41)
 }
+.colorRow {
+    display : flex;
+    align-items: center;
+}
+
+p {
+    margin: 0;
+}
+
+img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+

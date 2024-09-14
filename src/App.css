@@ -1,7 +1,11 @@
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     font-family: roboto;
-    height: 90vh;
+
 }
   
 .header {
@@ -14,7 +18,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 40px;
-    flex: none;
     flex-wrap: wrap;
 }
 
