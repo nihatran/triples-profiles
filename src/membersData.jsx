@@ -6,7 +6,7 @@ export const members = [
     bday: "August 6, 2003",
     color: "#1e90ff",
     emoji: "🐶",
-    picture: "/public/s1.webp",
+    picture: "s1.webp",
   },
   {
     id: 1,
@@ -15,7 +15,7 @@ export const members = [
     bday: "April 12, 2007",
     color: "#9172EC",
     emoji: "🐱",
-    picture: "/public/s2.webp",
+    picture: "s2.webp",
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ export const members = [
     bday: "October 24, 2005",
     color: "#FAFA33",
     emoji: "🐻",
-    picture: "/public/s3.webp",
+    picture: "s3.webp",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const members = [
     bday: "December 4, 2004",
     color: "#66CC33",
     emoji: "🍑",
-    picture: "/public/s4.webp",
+    picture: "s4.webp",
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ export const members = [
     bday: "February 9, 2001",
     color: "#EC118F",
     emoji: "🐰",
-    picture: "/public/s5.webp",
+    picture: "s5.webp",
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ export const members = [
     bday: "October 3, 2007",
     color: "#EF98AA",
     emoji: "🐿️",
-    picture: "/public/s6.webp",
+    picture: "s6.webp",
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ export const members = [
     bday: "October 13, 2002",
     color: "#5F9EA0",
     emoji: "🐈‍⬛",
-    picture: "/public/s7.webp",
+    picture: "s7.webp",
   },
   {
     id: 7,
@@ -69,7 +69,7 @@ export const members = [
     bday: "February 3, 2005",
     color: "#FFE4E1",
     emoji: "🐯",
-    picture: "/public/s8.webp",
+    picture: "s8.webp",
   },
   {
     id: 8,
@@ -78,7 +78,7 @@ export const members = [
     bday: "December 20, 2005",
     color: "#FFCC33",
     emoji: "🍁",
-    picture: "/public/s9.webp",
+    picture: "s9.webp",
   },
   {
     id: 9,
@@ -87,7 +87,7 @@ export const members = [
     bday: "January 8, 2003",
     color: "#FBA0E3",
     emoji: "🍒",
-    picture: "/public/s10.webp",
+    picture: "s10.webp",
   },
   {
     id: 10,
@@ -96,7 +96,7 @@ export const members = [
     bday: "March 10, 2004",
     color: "#FFDF00",
     emoji: "🦭",
-    picture: "/public/s11.webp",
+    picture: "s11.webp",
   },
   {
     id: 11,
@@ -105,7 +105,7 @@ export const members = [
     bday: "January 8, 2008",
     color: "#4169E1",
     emoji: "🧸",
-    picture: "/public/s12.webp",
+    picture: "s12.webp",
   },
   {
     id: 12,
@@ -114,7 +114,7 @@ export const members = [
     bday: "June 2, 2003",
     color: "#FFA343",
     emoji: "🍓",
-    picture: "/public/s13.webp",
+    picture: "s13.webp",
   },
   {
     id: 13,
@@ -123,7 +123,7 @@ export const members = [
     bday: "October 13, 2002",
     color: "#1034A6",
     emoji: "🐺",
-    picture: "/public/s14.webp",
+    picture: "s14.webp",
   },
   {
     id: 14,
@@ -132,7 +132,7 @@ export const members = [
     bday: "March 25, 2002",
     color: "#C80815",
     emoji: "🦊",
-    picture: "/public/s15.webp",
+    picture: "s15.webp",
   },
   {
     id: 15,
@@ -141,7 +141,7 @@ export const members = [
     bday: "March 12, 2002",
     color: "#FFA089",
     emoji: "🐇",
-    picture: "/public/s16.webp",
+    picture: "s16.webp",
   },
   {
     id: 16,
@@ -150,7 +150,7 @@ export const members = [
     bday: "April 12, 2006",
     color: "#AB62B4",
     emoji: "🦈",
-    picture: "/public/s17.webp",
+    picture: "s17.webp",
   },
   {
     id: 17,
@@ -159,7 +159,7 @@ export const members = [
     bday: "January 16, 2009",
     color: "#B7F54A",
     emoji: "🐣",
-    picture: "/public/s18.webp",
+    picture: "s18.webp",
   },
   {
     id: 18,
@@ -168,7 +168,7 @@ export const members = [
     bday: "August 1, 2007",
     color: "#52D9BB",
     emoji: "🦔",
-    picture: "/public/s19.webp",
+    picture: "s19.webp",
   },
   {
     id: 19,
@@ -177,7 +177,7 @@ export const members = [
     bday: "April 3, 2006",
     color: "#FF428A",
     emoji: "🍞",
-    picture: "/public/s20.webp",
+    picture: "s20.webp",
   },
   {
     id: 20,
@@ -186,7 +186,7 @@ export const members = [
     bday: "March 2, 2007",
     color: "#C7A3DF",
     emoji: "🎀",
-    picture: "/public/s21.webp",
+    picture: "s21.webp",
   },
   {
     id: 21,
@@ -195,7 +195,7 @@ export const members = [
     bday: "November 30, 2006",
     color: "#7BBA8D",
     emoji: "☃️",
-    picture: "/public/s22.webp",
+    picture: "s22.webp",
   },
   {
     id: 22,
@@ -204,7 +204,7 @@ export const members = [
     bday: "June 11, 2010",
     color: "#CFF4FF",
     emoji: "☀️",
-    picture: "/public/s23.webp",
+    picture: "s23.webp",
   },
   {
     id: 23,
@@ -213,6 +213,6 @@ export const members = [
     bday: "February 13, 2004",
     color: "#FEAA61",
     emoji: "🦢",
-    picture: "/public/s24.webp",
+    picture: "s24.webp",
   },
 ];
